@@ -137,9 +137,8 @@ body {
     transition: all ease-in-out 2s;
 }
 
-.confession p{
-    color:#ff8896;
-    font-size: 30px;
+.confession pre{
+    text-align: center;
 }
 
 /* size */
